@@ -1,0 +1,3 @@
+# 4.2 In-Game Assets
+
+The core asset in the game is AQUA(NFT). All game behaviors of players are for better and rarer AQUA. Because obtaining rarer AQUA requires NEE to be cultivated, NEE has also been circulated and appreciated with the increase of demand. In addition, NFT of decorations has a certain addition to the resource output of the game, which also leads to the good collection value of decorations.
