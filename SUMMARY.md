@@ -1,8 +1,10 @@
-# Aquanee
+# Table of contents
+
+* [Introduction](README.md)
 * [1. Overview](overview/README.md)
-* [2. Game Introduction](introduction/README.md)
-  * [2.0 Business Vision](introduction/Vision.md)
-  * [2.2 Target Players](introduction/Players.md)
+* [2. Game Introduction](introduction-1/README.md)
+  * [2.0 Business Vision](introduction-1/vision.md)
+  * [2.2 Target Players](introduction-1/players.md)
 * [3. Detail](detail/README.md)
   * [3.1 Storyline](detail/Storyline.md)
   * [3.2 Core Items and Functions](detail/Functions.md)

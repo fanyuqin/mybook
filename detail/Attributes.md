@@ -4,7 +4,7 @@ Each AQUA has 7 basic attributes, including HP, ATK, ATK SPD, CRIT%, CHD%,EVA, R
 
 Here are their definitions:
 
-**HP**   一 The amount of damage your AQUA can take before it is defeated.
+**HP** 一 The amount of damage your AQUA can take before it is defeated.
 
 **ATK** 一 The amount of damage your AQUA can deal through 1 normal attack. The amount will be affected by the target AQUA/s EVA.
 
@@ -20,4 +20,4 @@ Here are their definitions:
 
 **MOV SPD** 一 Determines how fast the AQUA can move during battles.
 
-![alt Attributes](../assets/image4.png)
+![alt Attributes](<../assets/image4 (1).png>)

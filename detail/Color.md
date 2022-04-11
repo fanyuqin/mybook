@@ -6,4 +6,4 @@ AQUAs' skin colors are decided by their parents. After reproduction, there is a 
 
 The counter effect of different skin colors is as follows:
 
-![alt Attributes](../assets/image5.png)
+![alt Attributes](<../assets/image5 (1).png>)

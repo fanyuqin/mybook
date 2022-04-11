@@ -1,6 +1,6 @@
 # 3.6 Exploration
 
-![alt Exploration](../assets/image8.png)
+![alt Exploration](<../assets/image8 (1).png>)
 
 Most of the in-game resources are from the exploration system. Exploration requires Force to be spent . The results will be randomly obtained from all the exploration events and the corresponding rewards or battle events will be triggered.
 
