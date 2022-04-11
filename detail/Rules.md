@@ -1,0 +1,6 @@
+# 3.9 Battle Rules
+
+The scoring system is adopted in the battle. 1 point is obtained for killing the enemy's combat unit, and 3 points are received for breaking through the opponent's defense to the bottom of the grids. It should be noted that 3 points are obtained for killing the enemy's combat unit for the first time, and 5 points are obtained for breaking through the defense to the bottom of the grids for the first time. When the combat unit reaches the bottom of the opponent's grids, the ATK of all your combat units will be fully improved.
+
+If either player's grid is completely annihilated or all combat units reach the bottom of the opponent's grids, the battle is over. After the battle, the high scorer wins. If the scores are the same, the defender wins.
+The battle attributes are determined by the AQUAs' genes, including HP, ATK, ATK SPD, CRIT%, CHD%,EVA, Range, and MOV SPD.To improve the overall combat effectiveness, put the highest score and radical characteristic AQUAs into battle as much as possible with a strategic formation.

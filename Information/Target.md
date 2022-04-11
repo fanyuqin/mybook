@@ -1,0 +1,3 @@
+# 5.1 Target
+
+With the game's unique style and interesting designs, AQUANEE is extremely competitive on the market. It can share similar digital assets with other games and attract tens of thousands of players. The whole game ecosystem does not require players to have experience in blockchain or cryptography. AQUANEE aims to fully maximize the potential of the blockchain economy while abstracting it from complicated blockchain concepts. Also, the blockchain function can enhance the fairness of the game in many ways. With NFT, players' assets will be protected and the chance of cheater successfully cheating in the game will be lowered. GameFi will help players become real "winners" outside the game while teaching them how to enjoy the game.

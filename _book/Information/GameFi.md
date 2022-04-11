@@ -1,0 +1,3 @@
+# 5.4.2 GameFi
+
+GameFi refers to the decentralized financial aspect of the game. GameFi aims to eliminate all digital financing obstacles for the players. In AQUANEE, players can trade their assets and tokens in multiple decentralized wallets and exchanges. They can also visit the in-game NFT asset marketplace. Also, the DEX features in-game currency exchange. Players can use other digital currencies to buy and sell tokens. At the same time, investing in tokens offered by liquidity providers is also supported in the in-game DEX and AQDC Tokens will be distributed based on the contribution of liquidity providers.
